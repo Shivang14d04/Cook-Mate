@@ -2,7 +2,7 @@ import React from "react"
 export default function Header() {
     return (
         <header>
-            <h1>Chef Claude</h1>
+            <h1>Cook Mate</h1>
         </header>
     )
 }

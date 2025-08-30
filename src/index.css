@@ -24,13 +24,9 @@ header {
     border-bottom: 1px solid #eee;
 }
 
-header>img {
-    width: 52px;
-    border-radius: 50%;
-}
 
 header>h1 {
-    font-weight: 600;
+    font-weight: 400;
     font-size: 1.5rem;
     color: #2C2C2C;
 }
