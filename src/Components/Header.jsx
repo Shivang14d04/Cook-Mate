@@ -1,8 +1,8 @@
 import React from "react"
-export default function Header(){
-return (
-    <header>
-        <h1>ChefClaude</h1>
-    </header>
-)
+export default function Header() {
+    return (
+        <header>
+            <h1>Chef Claude</h1>
+        </header>
+    )
 }
