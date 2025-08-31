@@ -7,7 +7,7 @@ Cook Mate is a web app that helps you generate recipe suggestions based on the i
 ## Demo
 
 You can see the live demo on GitHub Pages:  
-[https://yourusername.github.io/chefclaude](https://Shivang14d04.github.io/Cook-Mate)
+[Cook Mate live demo](https://Shivang14d04.github.io/Cook-Mate)
 
 ---
 
